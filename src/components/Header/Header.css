@@ -1,0 +1,22 @@
+.jumbotron {
+    width: 100%;
+    text-align: center;
+    background: #666;
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+}
+.desc-normal {
+    color: #fff;
+}
+
+.desc-correct {
+    color: #0f0;
+}
+
+.desc-incorrect {
+    color: #f00;
+}
+.bottom-row {
+text-align: center;
+}

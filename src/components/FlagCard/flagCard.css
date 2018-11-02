@@ -1,0 +1,83 @@
+.card {
+    background: #fff;
+    border-radius: 2px;
+    width: 13%;
+    height: auto;
+    overflow: hidden;
+    margin: 10px 45px;
+    position: relative;
+    box-shadow: 0 3px 6px #999, 0 3px 6px #999;
+    text-align: left;
+}
+
+.card > .img-container {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    text-align: center;
+}
+
+.card > .img-container img {
+    padding: 10px;
+    width: 100%;
+    height: auto;
+}
+.card:hover {
+    opacity: 0.9;
+}
+
+.country-preview {
+    border: 0;
+    position: relative;
+}
+
+.country-preview:hover {
+    cursor: pointer;
+}
+
+/* .country-preview:active {
+    animation: shake 0.5s;
+    animation-iteration-count: 1;
+} */
+
+.country-preview-ex {
+    animation: shake 0.3s;
+    animation-iteration-count: 1;
+}
+
+@keyframes shake {
+    0% {
+        transform: translate(5px, 0px) rotate(0deg);
+    }
+    10% {
+        transform: translate(-5px, 0px) rotate(0deg);
+    }
+    20% {
+        transform: translate(5px, 0px) rotate(0deg);
+    }
+    30% {
+        transform: translate(-5px, 0px) rotate(0deg);
+    }
+    40% {
+        transform: translate(5px, 0px) rotate(0deg);
+    }
+    50% {
+        transform: translate(-5px, 0px) rotate(0deg);
+    }
+    60% {
+        transform: translate(5px, 0px) rotate(0deg);
+    }
+    70% {
+        transform: translate(-5px, 0px) rotate(0deg);
+    }
+    80% {
+        transform: translate(5px, 0px) rotate(0deg);
+    }
+    90% {
+        transform: translate(-5px, 0px) rotate(0deg);
+    }
+    100% {
+        transform: translate(5px, 0px) rotate(0deg);
+    }
+}
+

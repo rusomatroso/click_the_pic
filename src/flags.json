@@ -1,0 +1,62 @@
+[
+    {
+        "country": "Macau",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Macau-orb.png"
+    },
+    {
+        "country": "Poland",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/75/Poland-orb.png"
+    },
+    {
+        "country": "Venezuela",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Venezuela-orb.png"
+    },
+    {
+        "country": "Sweden",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/83/Sweden-orb.png"
+    },
+    {
+        "country": "Guyana",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Guyana-orb.png"
+    },
+    {
+        "country": "Finland",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Finland-orb.png"
+    },
+    {
+        "country": "Gambia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Gambia-orb.png"
+    },
+    {
+        "country": "USA",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/United-States-orb.png"
+    },
+    {
+        "country": "Singapore",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Singapore-orb.png"
+    },
+    {
+        "country": "Croatia",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/52/Croatia-orb.png"
+    },
+    {
+        "country": "Japan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Japan-orb.png"
+    },
+    {
+        "country": "Germany",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Germany-orb.png"
+    },
+    {
+        "country": "Canada",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Canada-orb.png"
+    },
+    {
+        "country": "Portugal",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Portugal-orb.png"
+    },
+    {
+        "country": "Bahrain",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Bahrain-orb.png"
+    }
+]

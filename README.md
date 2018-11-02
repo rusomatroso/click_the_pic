@@ -1,2 +1,2 @@
-# click_the_pic
-course homework on react
+# FlagShuffling
+course project
